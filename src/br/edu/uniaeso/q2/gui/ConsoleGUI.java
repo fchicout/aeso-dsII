@@ -1,6 +1,8 @@
-package br.edu.uniaeso.q2;
+package br.edu.uniaeso.q2.gui;
 
 import java.util.Scanner;
+
+import br.edu.uniaeso.q2.business.Terreno;
 
 /**
  * Uma imobiliária vende apenas terrenos retangulares. Faça um programa em java

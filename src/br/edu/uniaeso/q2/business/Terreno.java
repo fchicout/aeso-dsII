@@ -1,4 +1,4 @@
-package br.edu.uniaeso.q2;
+package br.edu.uniaeso.q2.business;
 
 /**
  * Terreno
